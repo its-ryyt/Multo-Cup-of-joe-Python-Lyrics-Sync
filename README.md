@@ -48,7 +48,10 @@ Follow these steps to set up and run the project on your local machine.
    *If `requirements.txt` is not provided, you can install the necessary library directly:*
 
    ```bash
+   pip install pillow
+   pip install pip
    pip install playsound
+   pip install pygame
    ```
 
    ![Installation Screenshot](https://github.com/user-attachments/assets/19983372-5fcb-408a-b888-41d682d4b969)
