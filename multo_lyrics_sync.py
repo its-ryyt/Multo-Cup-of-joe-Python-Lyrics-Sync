@@ -49,8 +49,8 @@ lyrics = [
 ]
 
 # File paths
-MUSIC_PATH = r"D:\PYTHON - Songs\mp3\Multo.mp3"
-BG_IMAGE_PATH = r"D:\PYTHON - Songs\bg\bgq.jpg"
+MUSIC_PATH = r"D:\PYTHON - Songs\Multo-Cup of Joe\mp3\Multo.mp3"
+BG_IMAGE_PATH = r"D:\PYTHON - Songs\Multo-Cup of Joe\bg\bgq.jpg"
 
 # Initialize Pygame
 pygame.init()
