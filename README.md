@@ -85,7 +85,10 @@ python multo_lyrics_sync.py
 
 ## 📸 Screenshots
 
-*You can add screenshots or GIFs here to showcase the application's interface.*
+<br/>
+![image](https://github.com/user-attachments/assets/ac218890-c1df-4ab0-863d-7e8dd31c11b1)
+
+<br/>
 
 ## 🤝 Contributing
 
